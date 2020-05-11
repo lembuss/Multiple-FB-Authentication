@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "319413693424",
+    "firebase_url": "https://multiple-app-authentication.firebaseio.com",
+    "project_id": "multiple-app-authentication",
+    "storage_bucket": "multiple-app-authentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319413693424:android:f981bcd510688cf69f8b35",
+        "android_client_info": {
+          "package_name": "com.example.multiplefbauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319413693424-bf6nckmmic8vjmd25njgl7ofummsd9rm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVAErVedTm-sG0QJCCcSS7zdJZQNYcTEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319413693424-bf6nckmmic8vjmd25njgl7ofummsd9rm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
